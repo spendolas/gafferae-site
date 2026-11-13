@@ -1,0 +1,3 @@
+# Gaffer
+
+> Gaffer was an AI crew for After Effects. It is no longer available for public download, and there are no install instructions.

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "clip-01",
+    "video": "media/clip-01.mp4?v=976d2b2a",
+    "poster": "media/_generated/clip-01.jpg?v=fc715c25",
+    "width": 1000,
+    "height": 500,
+    "hevc": "media/clip-01.hevc.mp4?v=06fe42d3"
+  },
+  {
+    "id": "clip-02",
+    "video": "media/clip-02.mp4?v=62b84d3a",
+    "poster": "media/_generated/clip-02.jpg?v=653b766c",
+    "width": 800,
+    "height": 800,
+    "hevc": "media/clip-02.hevc.mp4?v=04a66689"
+  },
+  {
+    "id": "clip-03",
+    "video": "media/clip-03.mp4?v=f29d7f2b",
+    "poster": "media/_generated/clip-03.jpg?v=de175917",
+    "width": 800,
+    "height": 800,
+    "hevc": "media/clip-03.hevc.mp4?v=f2f1f798"
+  },
+  {
+    "id": "clip-04",
+    "video": "media/clip-04.mp4?v=aa7e0df4",
+    "poster": "media/_generated/clip-04.jpg?v=f484ab53",
+    "width": 800,
+    "height": 800,
+    "hevc": "media/clip-04.hevc.mp4?v=ddf4812e"
+  },
+  {
+    "id": "clip-05",
+    "video": "media/clip-05.mp4?v=a2dfa90d",
+    "poster": "media/_generated/clip-05.jpg?v=8eaaa05e",
+    "width": 800,
+    "height": 800,
+    "hevc": "media/clip-05.hevc.mp4?v=4ae576f2"
+  },
+  {
+    "id": "clip-06",
+    "video": "media/clip-06.mp4?v=645bf7e9",
+    "poster": "media/_generated/clip-06.jpg?v=4f8684f3",
+    "width": 1300,
+    "height": 542,
+    "hevc": "media/clip-06.hevc.mp4?v=095162d6"
+  },
+  {
+    "id": "clip-07",
+    "video": "media/clip-07.mp4?v=ce4cdace",
+    "poster": "media/_generated/clip-07.jpg?v=29ac88ad",
+    "width": 800,
+    "height": 800,
+    "hevc": "media/clip-07.hevc.mp4?v=d60bb456"
+  },
+  {
+    "id": "clip-08",
+    "video": "media/clip-08.mp4?v=992a2445",
+    "poster": "media/_generated/clip-08.jpg?v=99311915",
+    "width": 1280,
+    "height": 800,
+    "hevc": "media/clip-08.hevc.mp4?v=4d113028"
+  }
+]
